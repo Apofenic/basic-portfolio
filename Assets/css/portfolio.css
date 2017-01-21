@@ -58,7 +58,7 @@ body{
 	#section { 
 		float:left;
 		padding-top:40px;
-		height:360px;
+		height:700px;
 		width:490px;
 		background-color: #ffffff;
 		margin:30px 0px 40px 120px;
@@ -79,22 +79,96 @@ body{
 		#hr1{
 
 			margin: 0 40px 0 40px;
-		}
-
-		#mypic {
-			float:left;
-			margin: 25px 10px 0px 40px;
 
 		}
-	
-		#content{
-			text-align:left;
-			line-height: 1.5;
-			background-color: #ffffff;
-			padding:3px 40px 0 40px;
-			margin:0 0 0 0px;
-			color: #777;
-		}
+
+		#container1{}
+		
+			#container1 img {
+				float:left;
+				width:175px;
+				height:175px;
+				margin: 30px 25px 10px 38px;
+
+			}
+
+
+			#pic1{
+				position: relative;
+			}
+
+			#tag1{
+				position:absolute;
+				background-color:#4EAAA4;
+				color:white;
+				top:155px; 
+				left:38px;
+				width:175px;
+				height:30px;
+				padding-top:10px;
+			}
+			
+			#pic2{
+				position: relative;
+			}
+
+			#tag2{
+				position:absolute;
+				background-color:#4EAAA4;
+				color:white;
+				top:155px; 
+				left:276px;
+				width:175px;
+				height:30px;
+				padding-top:10px;
+			}
+
+
+			#pic3{
+				position: relative;
+			}
+
+			#tag3{
+				position:absolute;
+				background-color:#4EAAA4;
+				color:white;
+				top:370px; 
+				left:38px;
+				width:175px;
+				height:30px;
+				padding-top:10px;
+			}
+			
+			#pic4{
+				position: relative;
+			}
+
+			#tag4{
+				position:absolute;
+				background-color:#4EAAA4;
+				color:white;
+				top:370px; 
+				left:276px;
+				width:175px;
+				height:30px;
+				padding-top:10px;
+			}
+
+
+			#pic5{
+				position: relative;
+			}
+
+			#tag5{
+				position:absolute;
+				background-color:#4EAAA4;
+				color:white;
+				top:585px; 
+				left:38px;
+				width:175px;
+				height:30px;
+				padding-top:10px;
+			}
 		
 	#aside { 
 		font-family: 'Georgia', "Times", "Times New Roman", "serif";
